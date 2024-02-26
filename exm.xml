@@ -1,0 +1,16 @@
+<policy>
+    <personal>
+        <Name>John Doe</Name>
+        <Address>123 Main Street</Address>
+        <City>Anytown</City>
+        <State>CA</State>
+        <ZipCode>12345</ZipCode>
+        <ExposureType>Commercial</ExposureType>
+        <Exposure>Main Exposure</Exposure>
+        <ProjectedExposure>100000</ProjectedExposure>
+        <BeenInBusiness5YearsOrMore>Yes</BeenInBusiness5YearsOrMore>
+        <MarketRateUnits>100</MarketRateUnits>
+        <SubsidizedPercentage20OrGreater>Yes</SubsidizedPercentage20OrGreater>
+        <LossControlSafetyPractices>Good</LossControlSafetyPractices>
+    </personal>
+</policy>
